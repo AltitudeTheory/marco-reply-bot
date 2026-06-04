@@ -1,0 +1,8 @@
+{
+    "name": "marco-reply-bot",
+    "version": "1.0.0",
+    "description": "ManyChat + Claude reply bot webhook",
+    "dependencies": {
+          "@anthropic-ai/sdk": "^0.20.0"
+    }
+}
